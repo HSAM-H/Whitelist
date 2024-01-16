@@ -6,7 +6,6 @@ radarr.arkunraid.win
 vault.arkunraid.win
 0.client-channel.google.com
 1drv.com
-2.android.pool.ntp.org
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
