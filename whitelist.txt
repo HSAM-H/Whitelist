@@ -4,6 +4,7 @@ qbi.arkunraid.win
 sonarr.arkunraid.win
 radarr.arkunraid.win
 vault.arkunraid.win
+router-home.sentinel.arkunraid.win/
 0.client-channel.google.com
 1drv.com
 akamaihd.net
