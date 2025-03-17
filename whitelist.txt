@@ -6,6 +6,8 @@ radarr.arkunraid.win
 vault.arkunraid.win
 router-home.sentinel.arkunraid.win
 https://router-home.sentinel.arkunraid.win
+https://prox-home.sentinel.arkunraid.win
+prox-home.sentinel.arkunraid.win
 0.client-channel.google.com
 1drv.com
 akamaihd.net
@@ -196,4 +198,3 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
-sentinel.prox.arkunraid.win
